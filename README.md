@@ -30,11 +30,13 @@ TODOアプリとしてリリースする
   ドロワーの中にカテゴリー一覧、新しいカテゴリを追加を表示
 
 ## コンポーネント  
-- ボタン
-- ハンバーガーメニュー
-- ドロワー
-- 入力フォーム
-- カード
+- Button
+- Hamburger
+- Drawer
+- Inputform
+- Card
+- Dialog
+- Navigation
 
 ## 必要な関数  
 - addTodo  
